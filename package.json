@@ -1,0 +1,20 @@
+{
+  "name": "express-blog-routing",
+  "version": "1.0.0",
+  "description": "Esercizio per creare le rotte per le operazioni CRUD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmanueleDinaro/express-blog-routing.git"
+  },
+  "author": "Emanuele Dinaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EmanueleDinaro/express-blog-routing/issues"
+  },
+  "homepage": "https://github.com/EmanueleDinaro/express-blog-routing#readme"
+}
