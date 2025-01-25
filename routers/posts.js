@@ -23,10 +23,12 @@ router.put('/:id', (req, res) => {
 
 //modify
 router.patch('/:id', (req, res) => {
-    res.send('Modifica parziare di un post')
+    res.send('Modifica parziale di un post')
 })
 
 //destroy
 router.delete('/:id', (req, res) => {
     res.send('Eliminazione di un post')
 })
+
+module.exports = router;
